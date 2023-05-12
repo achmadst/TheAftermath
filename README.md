@@ -1,4 +1,4 @@
-# TheAftermath
+# TheAftermath (WWDC Swift Student Challenge 2023 Submission)
 
 Many people only see mathematics as a boring subject and think that mathematics has nothing to do with our lives. But I remember my high school teacher said that "If you study and master math, you will understand life". At first, I didn't know what it meant, but after majoring in math in college I think there are a lot of math concepts we can relate to in our lives.
 
