@@ -1,4 +1,4 @@
-# TheAftermath (WWDC Swift Student Challenge 2023 Submission)
+# The Aftermath (WWDC Swift Student Challenge 2023 Submission)
 
 Many people only see mathematics as a boring subject and think that mathematics has nothing to do with our lives. But I remember my high school teacher said that "If you study and master math, you will understand life". At first, I didn't know what it meant, but after majoring in math in college I think there are a lot of math concepts we can relate to in our lives.
 
@@ -9,6 +9,6 @@ I am creating an application that allows the user to see a visualization of the 
 By making this app I hope people can see mathematics from another side. I also want them to see math as something beautiful from the visualizations this app creates. Most importantly, I want to give encouragement to other people to be wise in their life. Because there is an aftermath to every action we do.
 
 How To Run this Project:
-1. Unzip TheAftermath.swiftpm file
-2. Open TheAftermath.swiftpm on XCode or Swift Playground
+1. Unzip The Aftermath.swiftpm file
+2. Open The Aftermath.swiftpm on XCode or Swift Playground
 3. Run it on your device
